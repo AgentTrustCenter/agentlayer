@@ -1,0 +1,49 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="sunset" x1="256" y1="64" x2="256" y2="256" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FFE067"/>
+      <stop offset="0.45" stop-color="#FF8C3A"/>
+      <stop offset="1" stop-color="#FF3E9E"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="96" y1="360" x2="416" y2="168" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#48F3FF"/>
+      <stop offset="0.45" stop-color="#FF4EC7"/>
+      <stop offset="1" stop-color="#7B61FF"/>
+    </linearGradient>
+    <filter id="glow" x="0" y="0" width="512" height="512" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="36" fill="#090510"/>
+  <circle cx="256" cy="190" r="116" fill="url(#sunset)"/>
+  <path d="M80 260H432" stroke="#201132" stroke-width="10"/>
+  <path d="M96 230H416" stroke="#201132" stroke-width="10"/>
+  <path d="M118 200H394" stroke="#201132" stroke-width="10"/>
+  <g opacity="0.9">
+    <path d="M76 416H436" stroke="#4D1E74" stroke-width="3"/>
+    <path d="M92 390H420" stroke="#4D1E74" stroke-width="3"/>
+    <path d="M110 362H402" stroke="#4D1E74" stroke-width="3"/>
+    <path d="M132 332H380" stroke="#4D1E74" stroke-width="3"/>
+    <path d="M256 286V438" stroke="#4D1E74" stroke-width="3"/>
+    <path d="M210 296L190 438" stroke="#4D1E74" stroke-width="3"/>
+    <path d="M302 296L322 438" stroke="#4D1E74" stroke-width="3"/>
+    <path d="M168 310L126 438" stroke="#4D1E74" stroke-width="3"/>
+    <path d="M344 310L386 438" stroke="#4D1E74" stroke-width="3"/>
+  </g>
+  <g filter="url(#glow)">
+    <path d="M120 338C167 249 211 194 263 170C277 163 291 162 301 169C313 177 313 194 305 206C291 226 267 240 244 254C212 273 182 297 151 339L120 338Z" fill="url(#sunset)"/>
+    <path d="M129 334C181 239 228 185 285 161C307 152 327 155 339 167C352 181 350 202 335 219C317 240 290 255 264 270C226 291 191 314 154 353" stroke="#FFE9D7" stroke-width="10" stroke-linecap="round"/>
+    <path d="M134 362C211 338 285 309 376 230" stroke="url(#neon)" stroke-width="18" stroke-linecap="round"/>
+    <path d="M134 362C189 304 248 270 321 240C351 228 377 229 390 244C401 258 399 278 383 294C360 318 322 335 293 351C240 379 203 411 179 447" stroke="#FFE9D7" stroke-width="10" stroke-linecap="round"/>
+  </g>
+  <g fill="url(#neon)">
+    <circle cx="406" cy="150" r="4"/>
+    <circle cx="426" cy="174" r="3"/>
+    <circle cx="102" cy="166" r="4"/>
+    <circle cx="86" cy="188" r="3"/>
+  </g>
+</svg>

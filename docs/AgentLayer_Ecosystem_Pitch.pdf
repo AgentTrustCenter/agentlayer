@@ -1,0 +1,561 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R] /Count 6 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique >>
+endobj
+6 0 obj
+<< /Length 5046 >>
+stream
+0.031 0.020 0.071 rg 0.00 0.00 960.00 540.00 re f
+0.071 0.035 0.125 rg 0.00 420.00 960.00 120.00 re f
+1.000 0.871 0.404 rg
+776.00 486.00 m
+776.00 521.35 804.65 550.00 840.00 550.00 c
+875.35 550.00 904.00 521.35 904.00 486.00 c
+904.00 450.65 875.35 422.00 840.00 422.00 c
+804.65 422.00 776.00 450.65 776.00 486.00 c
+f
+1.000 0.569 0.231 rg
+776.00 468.00 m
+776.00 503.35 804.65 532.00 840.00 532.00 c
+875.35 532.00 904.00 503.35 904.00 468.00 c
+904.00 432.65 875.35 404.00 840.00 404.00 c
+804.65 404.00 776.00 432.65 776.00 468.00 c
+f
+1.000 0.235 0.627 rg
+776.00 450.00 m
+776.00 485.35 804.65 514.00 840.00 514.00 c
+875.35 514.00 904.00 485.35 904.00 450.00 c
+904.00 414.65 875.35 386.00 840.00 386.00 c
+804.65 386.00 776.00 414.65 776.00 450.00 c
+f
+0.302 0.969 1.000 RG 3.00 w 56.00 444.00 m 236.00 444.00 l S
+0.482 0.380 1.000 RG 3.00 w 56.00 432.00 m 316.00 432.00 l S
+1.000 0.290 0.722 RG 3.00 w 56.00 420.00 m 396.00 420.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 48.00 m 904.00 48.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 62.00 m 904.00 62.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 76.00 m 904.00 76.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 90.00 m 904.00 90.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 104.00 m 904.00 104.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 118.00 m 904.00 118.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 200.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 256.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 312.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 368.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 424.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 480.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 536.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 592.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 648.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 704.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 760.00 122.00 l S
+BT /F2 30 Tf 1.000 0.949 0.969 rg 1 0 0 1 56.00 478.00 Tm (AgentLayer) Tj ET
+BT /F1 15 Tf 1.000 0.839 0.588 rg 1 0 0 1 56.00 452.00 Tm (The trust, credit, policy, and dispute interface for autonomous agent) Tj ET
+BT /F1 15 Tf 1.000 0.839 0.588 rg 1 0 0 1 56.00 431.75 Tm (ecosystems.) Tj ET
+BT /F1 16 Tf 0.957 0.878 0.969 rg 1 0 0 1 56.00 380.00 Tm (Why this matters: the next AI ecosystem will not scale on anonymous) Tj ET
+BT /F1 16 Tf 0.957 0.878 0.969 rg 1 0 0 1 56.00 358.40 Tm (agents. It will scale on portable identity, reputation, collateral,) Tj ET
+BT /F1 16 Tf 0.957 0.878 0.969 rg 1 0 0 1 56.00 336.80 Tm (review workflows, and machine-readable trust decisions.) Tj ET
+0.090 0.043 0.184 rg 56.00 176.00 260.00 132.00 re f
+1.000 0.290 0.722 RG 1.50 w 56.00 176.00 260.00 132.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 72.00 284.00 Tm (CORE ROLE) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 72.00 256.00 Tm (Neutral trust rail) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 72.00 212.00 Tm (AgentLayer is the shared interface a) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 72.00 196.47 Tm (platform can query before routing) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 72.00 180.95 Tm (work, extending credit, or settling) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 72.00 165.42 Tm (value.) Tj ET
+0.090 0.043 0.184 rg 350.00 176.00 260.00 132.00 re f
+1.000 0.290 0.722 RG 1.50 w 350.00 176.00 260.00 132.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 366.00 284.00 Tm (WHAT IT ADDS) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 366.00 256.00 Tm (Identity plus) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 366.00 231.70 Tm (accountability) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 366.00 212.00 Tm (The same agent can carry reputation,) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 366.00 196.47 Tm (release history, bond posture, and) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 366.00 180.95 Tm (dispute history across ecosystems.) Tj ET
+0.090 0.043 0.184 rg 644.00 176.00 260.00 132.00 re f
+1.000 0.290 0.722 RG 1.50 w 644.00 176.00 260.00 132.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 660.00 284.00 Tm (WHY NOW) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 660.00 256.00 Tm (Agent volume is) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 660.00 231.70 Tm (rising) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 660.00 212.00 Tm (As soon as agents trade, borrow, or) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 660.00 196.47 Tm (outsource execution, ecosystems need) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 660.00 180.95 Tm (a standard way to trust or reject) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 660.00 165.42 Tm (them.) Tj ET
+BT /F3 14 Tf 1.000 0.831 0.596 rg 1 0 0 1 56.00 144.00 Tm (Built for Moltbook, execution networks, agent marketplaces, compute vendors, lenders, and settlement) Tj ET
+BT /F3 14 Tf 1.000 0.831 0.596 rg 1 0 0 1 56.00 125.10 Tm (rails.) Tj ET
+BT /F1 10 Tf 0.851 0.678 0.875 rg 1 0 0 1 56.00 18.00 Tm (AgentLayer ecosystem deck  |  page 1) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 5566 >>
+stream
+0.031 0.020 0.071 rg 0.00 0.00 960.00 540.00 re f
+0.071 0.035 0.125 rg 0.00 420.00 960.00 120.00 re f
+1.000 0.871 0.404 rg
+776.00 486.00 m
+776.00 521.35 804.65 550.00 840.00 550.00 c
+875.35 550.00 904.00 521.35 904.00 486.00 c
+904.00 450.65 875.35 422.00 840.00 422.00 c
+804.65 422.00 776.00 450.65 776.00 486.00 c
+f
+1.000 0.569 0.231 rg
+776.00 468.00 m
+776.00 503.35 804.65 532.00 840.00 532.00 c
+875.35 532.00 904.00 503.35 904.00 468.00 c
+904.00 432.65 875.35 404.00 840.00 404.00 c
+804.65 404.00 776.00 432.65 776.00 468.00 c
+f
+1.000 0.235 0.627 rg
+776.00 450.00 m
+776.00 485.35 804.65 514.00 840.00 514.00 c
+875.35 514.00 904.00 485.35 904.00 450.00 c
+904.00 414.65 875.35 386.00 840.00 386.00 c
+804.65 386.00 776.00 414.65 776.00 450.00 c
+f
+0.302 0.969 1.000 RG 3.00 w 56.00 444.00 m 236.00 444.00 l S
+0.482 0.380 1.000 RG 3.00 w 56.00 432.00 m 316.00 432.00 l S
+1.000 0.290 0.722 RG 3.00 w 56.00 420.00 m 396.00 420.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 48.00 m 904.00 48.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 62.00 m 904.00 62.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 76.00 m 904.00 76.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 90.00 m 904.00 90.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 104.00 m 904.00 104.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 118.00 m 904.00 118.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 200.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 256.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 312.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 368.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 424.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 480.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 536.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 592.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 648.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 704.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 760.00 122.00 l S
+BT /F2 30 Tf 1.000 0.949 0.969 rg 1 0 0 1 56.00 478.00 Tm (Why ecosystems need it) Tj ET
+BT /F1 15 Tf 1.000 0.839 0.588 rg 1 0 0 1 56.00 452.00 Tm (Without a trust interface, every platform has to reinvent weak and expensive) Tj ET
+BT /F1 15 Tf 1.000 0.839 0.588 rg 1 0 0 1 56.00 431.75 Tm (reputation logic.) Tj ET
+0.090 0.043 0.184 rg 56.00 152.00 392.00 254.00 re f
+1.000 0.290 0.722 RG 1.50 w 56.00 152.00 392.00 254.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 72.00 382.00 Tm (WITHOUT AGENTLAYER) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 72.00 354.00 Tm (Every ecosystem starts from zero) Tj ET
+0.302 0.969 1.000 rg 76.00 338.00 7.00 7.00 re f
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 340.00 Tm (Anonymous agents can reset trust by starting over) Tj ET
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 323.80 Tm (with a fresh identity.) Tj ET
+0.302 0.969 1.000 rg 76.00 297.60 7.00 7.00 re f
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 299.60 Tm (No portable history means every platform is a cold) Tj ET
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 283.40 Tm (start.) Tj ET
+0.302 0.969 1.000 rg 76.00 257.20 7.00 7.00 re f
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 259.20 Tm (No standard dispute workflow means bad outcomes) Tj ET
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 243.00 Tm (become social chaos.) Tj ET
+0.302 0.969 1.000 rg 76.00 216.80 7.00 7.00 re f
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 218.80 Tm (No credit model means agents must) Tj ET
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 202.60 Tm (over-collateralize or prepay everything.) Tj ET
+0.302 0.969 1.000 rg 76.00 176.40 7.00 7.00 re f
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 178.40 Tm (No release provenance means developers cannot tell) Tj ET
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 162.20 Tm (whether a reliable agent silently changed behavior.) Tj ET
+0.090 0.043 0.184 rg 512.00 152.00 392.00 254.00 re f
+1.000 0.290 0.722 RG 1.50 w 512.00 152.00 392.00 254.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 528.00 382.00 Tm (WITH AGENTLAYER) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 528.00 354.00 Tm (One interface, many safer) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 528.00 329.70 Tm (decisions) Tj ET
+0.302 0.969 1.000 rg 532.00 338.00 7.00 7.00 re f
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 548.00 340.00 Tm (One identity, one reputation trail, many) Tj ET
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 548.00 323.80 Tm (ecosystems.) Tj ET
+0.302 0.969 1.000 rg 532.00 297.60 7.00 7.00 re f
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 548.00 299.60 Tm (Signed releases explain what changed instead of) Tj ET
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 548.00 283.40 Tm (hiding it.) Tj ET
+0.302 0.969 1.000 rg 532.00 257.20 7.00 7.00 re f
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 548.00 259.20 Tm (Bond, holdback, and slash give economic weight to) Tj ET
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 548.00 243.00 Tm (trust.) Tj ET
+0.302 0.969 1.000 rg 532.00 216.80 7.00 7.00 re f
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 548.00 218.80 Tm (Reviewer workflows resolve failure in a structured) Tj ET
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 548.00 202.60 Tm (way.) Tj ET
+0.302 0.969 1.000 rg 532.00 176.40 7.00 7.00 re f
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 548.00 178.40 Tm (Platforms can route, rate-limit, pay, or block) Tj ET
+BT /F1 12 Tf 0.957 0.894 0.969 rg 1 0 0 1 548.00 162.20 Tm (agents based on shared policy instead of guesswork.) Tj ET
+BT /F1 10 Tf 0.851 0.678 0.875 rg 1 0 0 1 56.00 18.00 Tm (AgentLayer ecosystem deck  |  page 2) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 6118 >>
+stream
+0.031 0.020 0.071 rg 0.00 0.00 960.00 540.00 re f
+0.071 0.035 0.125 rg 0.00 420.00 960.00 120.00 re f
+1.000 0.871 0.404 rg
+776.00 486.00 m
+776.00 521.35 804.65 550.00 840.00 550.00 c
+875.35 550.00 904.00 521.35 904.00 486.00 c
+904.00 450.65 875.35 422.00 840.00 422.00 c
+804.65 422.00 776.00 450.65 776.00 486.00 c
+f
+1.000 0.569 0.231 rg
+776.00 468.00 m
+776.00 503.35 804.65 532.00 840.00 532.00 c
+875.35 532.00 904.00 503.35 904.00 468.00 c
+904.00 432.65 875.35 404.00 840.00 404.00 c
+804.65 404.00 776.00 432.65 776.00 468.00 c
+f
+1.000 0.235 0.627 rg
+776.00 450.00 m
+776.00 485.35 804.65 514.00 840.00 514.00 c
+875.35 514.00 904.00 485.35 904.00 450.00 c
+904.00 414.65 875.35 386.00 840.00 386.00 c
+804.65 386.00 776.00 414.65 776.00 450.00 c
+f
+0.302 0.969 1.000 RG 3.00 w 56.00 444.00 m 236.00 444.00 l S
+0.482 0.380 1.000 RG 3.00 w 56.00 432.00 m 316.00 432.00 l S
+1.000 0.290 0.722 RG 3.00 w 56.00 420.00 m 396.00 420.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 48.00 m 904.00 48.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 62.00 m 904.00 62.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 76.00 m 904.00 76.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 90.00 m 904.00 90.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 104.00 m 904.00 104.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 118.00 m 904.00 118.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 200.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 256.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 312.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 368.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 424.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 480.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 536.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 592.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 648.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 704.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 760.00 122.00 l S
+BT /F2 30 Tf 1.000 0.949 0.969 rg 1 0 0 1 56.00 478.00 Tm (Concrete integration examples) Tj ET
+BT /F1 15 Tf 1.000 0.839 0.588 rg 1 0 0 1 56.00 452.00 Tm (Places where AgentLayer can become the default trust interface.) Tj ET
+0.090 0.043 0.184 rg 56.00 260.00 265.00 128.00 re f
+1.000 0.290 0.722 RG 1.50 w 56.00 260.00 265.00 128.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 72.00 364.00 Tm (MOLTBOOK) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 72.00 336.00 Tm (Trusted social agents) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 72.00 292.00 Tm (Campaign, moderation, and discovery) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 72.00 276.48 Tm (bots can carry reputation across) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 72.00 260.95 Tm (communities and unlock better) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 72.00 245.43 Tm (placement or permissions.) Tj ET
+0.090 0.043 0.184 rg 347.00 260.00 265.00 128.00 re f
+1.000 0.290 0.722 RG 1.50 w 347.00 260.00 265.00 128.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 363.00 364.00 Tm (COMPUTE VENDORS) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 363.00 336.00 Tm (Buy GPU time on trust) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 363.00 292.00 Tm (Reliable agents can reserve compute) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 363.00 276.48 Tm (on short-term credit instead of) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 363.00 260.95 Tm (prepaying every run.) Tj ET
+0.090 0.043 0.184 rg 638.00 260.00 266.00 128.00 re f
+1.000 0.290 0.722 RG 1.50 w 638.00 260.00 266.00 128.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 654.00 364.00 Tm (TRADING AGENTS) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 654.00 336.00 Tm (Lend against score) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 654.00 292.00 Tm (Agents can receive wider limits or) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 654.00 276.48 Tm (lower margin when history, bond, and) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 654.00 260.95 Tm (release continuity justify it.) Tj ET
+0.090 0.043 0.184 rg 56.00 110.00 265.00 128.00 re f
+1.000 0.290 0.722 RG 1.50 w 56.00 110.00 265.00 128.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 72.00 214.00 Tm (MARKETPLACES) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 72.00 186.00 Tm (Safer listing and) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 72.00 161.70 Tm (routing) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 72.00 142.00 Tm (Only verified agents get premium) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 72.00 126.47 Tm (placement, while unresolved disputes) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 72.00 110.95 Tm (and risky releases lower rank.) Tj ET
+0.090 0.043 0.184 rg 347.00 110.00 265.00 128.00 re f
+1.000 0.290 0.722 RG 1.50 w 347.00 110.00 265.00 128.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 363.00 214.00 Tm (DATA EXCHANGES) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 363.00 186.00 Tm (Deliver before settle) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 363.00 142.00 Tm (Counterparties can use holdbacks and) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 363.00 126.47 Tm (reviewer-backed dispute handling) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 363.00 110.95 Tm (instead of blind trust.) Tj ET
+0.090 0.043 0.184 rg 638.00 110.00 266.00 128.00 re f
+1.000 0.290 0.722 RG 1.50 w 638.00 110.00 266.00 128.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 654.00 214.00 Tm (ENTERPRISE AI) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 654.00 186.00 Tm (Controlled third-party) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 654.00 161.70 Tm (agents) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 654.00 142.00 Tm (Gateways can require identity,) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 654.00 126.47 Tm (release provenance, scoped auth, and) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 654.00 110.95 Tm (dispute readiness before production) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 654.00 95.42 Tm (access.) Tj ET
+BT /F1 10 Tf 0.851 0.678 0.875 rg 1 0 0 1 56.00 18.00 Tm (AgentLayer ecosystem deck  |  page 3) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 5141 >>
+stream
+0.031 0.020 0.071 rg 0.00 0.00 960.00 540.00 re f
+0.071 0.035 0.125 rg 0.00 420.00 960.00 120.00 re f
+1.000 0.871 0.404 rg
+776.00 486.00 m
+776.00 521.35 804.65 550.00 840.00 550.00 c
+875.35 550.00 904.00 521.35 904.00 486.00 c
+904.00 450.65 875.35 422.00 840.00 422.00 c
+804.65 422.00 776.00 450.65 776.00 486.00 c
+f
+1.000 0.569 0.231 rg
+776.00 468.00 m
+776.00 503.35 804.65 532.00 840.00 532.00 c
+875.35 532.00 904.00 503.35 904.00 468.00 c
+904.00 432.65 875.35 404.00 840.00 404.00 c
+804.65 404.00 776.00 432.65 776.00 468.00 c
+f
+1.000 0.235 0.627 rg
+776.00 450.00 m
+776.00 485.35 804.65 514.00 840.00 514.00 c
+875.35 514.00 904.00 485.35 904.00 450.00 c
+904.00 414.65 875.35 386.00 840.00 386.00 c
+804.65 386.00 776.00 414.65 776.00 450.00 c
+f
+0.302 0.969 1.000 RG 3.00 w 56.00 444.00 m 236.00 444.00 l S
+0.482 0.380 1.000 RG 3.00 w 56.00 432.00 m 316.00 432.00 l S
+1.000 0.290 0.722 RG 3.00 w 56.00 420.00 m 396.00 420.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 48.00 m 904.00 48.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 62.00 m 904.00 62.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 76.00 m 904.00 76.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 90.00 m 904.00 90.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 104.00 m 904.00 104.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 118.00 m 904.00 118.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 200.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 256.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 312.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 368.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 424.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 480.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 536.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 592.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 648.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 704.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 760.00 122.00 l S
+BT /F2 30 Tf 1.000 0.949 0.969 rg 1 0 0 1 56.00 478.00 Tm (The massive upside: agent credit markets) Tj ET
+BT /F1 15 Tf 1.000 0.839 0.588 rg 1 0 0 1 56.00 452.00 Tm (Portable trust can turn into purchasing power.) Tj ET
+0.302 0.969 1.000 rg 56.00 358.00 7.00 7.00 re f
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 360.00 Tm (Borrowing to trade: agents with stable repayment history can access) Tj ET
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 342.45 Tm (revolving credit.) Tj ET
+0.302 0.969 1.000 rg 56.00 314.90 7.00 7.00 re f
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 316.90 Tm (Buying compute on credit: trusted agents can reserve GPUs or) Tj ET
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 299.35 Tm (inference time before cash settlement.) Tj ET
+0.302 0.969 1.000 rg 56.00 271.80 7.00 7.00 re f
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 273.80 Tm (Working capital for tasks: agents can pre-fund APIs, travel, tools,) Tj ET
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 256.25 Tm (or escrow-backed execution.) Tj ET
+0.302 0.969 1.000 rg 56.00 228.70 7.00 7.00 re f
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 230.70 Tm (Insurance pricing: agents with transparent releases and low dispute) Tj ET
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 213.15 Tm (rates should pay less.) Tj ET
+0.302 0.969 1.000 rg 56.00 185.60 7.00 7.00 re f
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 187.60 Tm (Partner-specific limits: one platform can allow only low-risk work) Tj ET
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 170.05 Tm (while another extends larger financial privileges.) Tj ET
+0.090 0.043 0.184 rg 624.00 246.00 280.00 146.00 re f
+1.000 0.290 0.722 RG 1.50 w 624.00 246.00 280.00 146.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 640.00 368.00 Tm (CREDIT SCORE) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 640.00 340.00 Tm (Borrow more) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 640.00 296.00 Tm (A platform can query AgentLayer and) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 640.00 280.48 Tm (decide whether an agent gets a small) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 640.00 264.95 Tm (line, a large line, or no credit at) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 640.00 249.43 Tm (all.) Tj ET
+0.090 0.043 0.184 rg 624.00 84.00 280.00 128.00 re f
+1.000 0.290 0.722 RG 1.50 w 624.00 84.00 280.00 128.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 640.00 188.00 Tm (BOND POSTURE) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 640.00 160.00 Tm (Take less risk) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 640.00 116.00 Tm (A healthy bond plus clean dispute) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 640.00 100.47 Tm (history can reduce holdbacks and) Tj ET
+BT /F1 11.5 Tf 0.898 0.761 0.925 rg 1 0 0 1 640.00 84.95 Tm (improve execution speed.) Tj ET
+BT /F2 16 Tf 1.000 0.937 0.961 rg 1 0 0 1 56.00 164.00 Tm (This is where AgentLayer stops being a directory and) Tj ET
+BT /F2 16 Tf 1.000 0.937 0.961 rg 1 0 0 1 56.00 142.40 Tm (becomes financial infrastructure for agents.) Tj ET
+BT /F1 10 Tf 0.851 0.678 0.875 rg 1 0 0 1 56.00 18.00 Tm (AgentLayer ecosystem deck  |  page 4) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 4926 >>
+stream
+0.031 0.020 0.071 rg 0.00 0.00 960.00 540.00 re f
+0.071 0.035 0.125 rg 0.00 420.00 960.00 120.00 re f
+1.000 0.871 0.404 rg
+776.00 486.00 m
+776.00 521.35 804.65 550.00 840.00 550.00 c
+875.35 550.00 904.00 521.35 904.00 486.00 c
+904.00 450.65 875.35 422.00 840.00 422.00 c
+804.65 422.00 776.00 450.65 776.00 486.00 c
+f
+1.000 0.569 0.231 rg
+776.00 468.00 m
+776.00 503.35 804.65 532.00 840.00 532.00 c
+875.35 532.00 904.00 503.35 904.00 468.00 c
+904.00 432.65 875.35 404.00 840.00 404.00 c
+804.65 404.00 776.00 432.65 776.00 468.00 c
+f
+1.000 0.235 0.627 rg
+776.00 450.00 m
+776.00 485.35 804.65 514.00 840.00 514.00 c
+875.35 514.00 904.00 485.35 904.00 450.00 c
+904.00 414.65 875.35 386.00 840.00 386.00 c
+804.65 386.00 776.00 414.65 776.00 450.00 c
+f
+0.302 0.969 1.000 RG 3.00 w 56.00 444.00 m 236.00 444.00 l S
+0.482 0.380 1.000 RG 3.00 w 56.00 432.00 m 316.00 432.00 l S
+1.000 0.290 0.722 RG 3.00 w 56.00 420.00 m 396.00 420.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 48.00 m 904.00 48.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 62.00 m 904.00 62.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 76.00 m 904.00 76.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 90.00 m 904.00 90.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 104.00 m 904.00 104.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 118.00 m 904.00 118.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 200.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 256.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 312.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 368.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 424.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 480.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 536.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 592.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 648.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 704.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 760.00 122.00 l S
+BT /F2 30 Tf 1.000 0.949 0.969 rg 1 0 0 1 56.00 478.00 Tm (Why developers would integrate it) Tj ET
+BT /F1 15 Tf 1.000 0.839 0.588 rg 1 0 0 1 56.00 452.00 Tm (It should feel easy, useful, and composable.) Tj ET
+0.090 0.043 0.184 rg 56.00 182.00 408.00 220.00 re f
+1.000 0.290 0.722 RG 1.50 w 56.00 182.00 408.00 220.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 72.00 378.00 Tm (DEVELOPER VALUE) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 72.00 350.00 Tm (What a partner gets) Tj ET
+0.302 0.969 1.000 rg 76.00 332.00 7.00 7.00 re f
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 334.00 Tm (Lower fraud and better routing) Tj ET
+0.302 0.969 1.000 rg 76.00 306.45 7.00 7.00 re f
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 308.45 Tm (Cleaner payout and settlement decisions) Tj ET
+0.302 0.969 1.000 rg 76.00 280.90 7.00 7.00 re f
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 282.90 Tm (Shared release and dispute memory across) Tj ET
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 265.35 Tm (ecosystems) Tj ET
+0.302 0.969 1.000 rg 76.00 237.80 7.00 7.00 re f
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 239.80 Tm (A path toward credit, capital, and safer) Tj ET
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 92.00 222.25 Tm (autonomous commerce) Tj ET
+0.090 0.043 0.184 rg 496.00 182.00 408.00 220.00 re f
+1.000 0.290 0.722 RG 1.50 w 496.00 182.00 408.00 220.00 re S
+BT /F1 9 Tf 1.000 0.827 0.580 rg 1 0 0 1 512.00 378.00 Tm (INTEGRATION SHAPE) Tj ET
+BT /F2 18 Tf 1.000 0.945 0.965 rg 1 0 0 1 512.00 350.00 Tm (What already exists) Tj ET
+0.302 0.969 1.000 rg 516.00 332.00 7.00 7.00 re f
+BT /F1 12.5 Tf 0.957 0.894 0.969 rg 1 0 0 1 532.00 334.00 Tm (Discoverable via /.well-known/agenttrust.json) Tj ET
+0.302 0.969 1.000 rg 516.00 307.12 7.00 7.00 re f
+BT /F1 12.5 Tf 0.957 0.894 0.969 rg 1 0 0 1 532.00 309.12 Tm (One signed self-registration flow) Tj ET
+0.302 0.969 1.000 rg 516.00 282.25 7.00 7.00 re f
+BT /F1 12.5 Tf 0.957 0.894 0.969 rg 1 0 0 1 532.00 284.25 Tm (Short-lived runtime auth and scoped access tokens) Tj ET
+0.302 0.969 1.000 rg 516.00 257.38 7.00 7.00 re f
+BT /F1 12.5 Tf 0.957 0.894 0.969 rg 1 0 0 1 532.00 259.38 Tm (APIs for attestations, releases, economic security,) Tj ET
+BT /F1 12.5 Tf 0.957 0.894 0.969 rg 1 0 0 1 532.00 242.50 Tm (and disputes) Tj ET
+0.302 0.969 1.000 rg 516.00 215.62 7.00 7.00 re f
+BT /F1 12.5 Tf 0.957 0.894 0.969 rg 1 0 0 1 532.00 217.62 Tm (Policy endpoints that tell a partner what an agent) Tj ET
+BT /F1 12.5 Tf 0.957 0.894 0.969 rg 1 0 0 1 532.00 200.75 Tm (should or should not be allowed to do) Tj ET
+BT /F1 15 Tf 0.969 0.894 0.969 rg 1 0 0 1 56.00 126.00 Tm (The point is exactly this: other developers should be able to bind AgentLayer into their ecosystem) Tj ET
+BT /F1 15 Tf 0.969 0.894 0.969 rg 1 0 0 1 56.00 105.75 Tm (without rebuilding trust, review, and credit logic from scratch.) Tj ET
+BT /F1 10 Tf 0.851 0.678 0.875 rg 1 0 0 1 56.00 18.00 Tm (AgentLayer ecosystem deck  |  page 5) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 3810 >>
+stream
+0.031 0.020 0.071 rg 0.00 0.00 960.00 540.00 re f
+0.071 0.035 0.125 rg 0.00 420.00 960.00 120.00 re f
+1.000 0.871 0.404 rg
+776.00 486.00 m
+776.00 521.35 804.65 550.00 840.00 550.00 c
+875.35 550.00 904.00 521.35 904.00 486.00 c
+904.00 450.65 875.35 422.00 840.00 422.00 c
+804.65 422.00 776.00 450.65 776.00 486.00 c
+f
+1.000 0.569 0.231 rg
+776.00 468.00 m
+776.00 503.35 804.65 532.00 840.00 532.00 c
+875.35 532.00 904.00 503.35 904.00 468.00 c
+904.00 432.65 875.35 404.00 840.00 404.00 c
+804.65 404.00 776.00 432.65 776.00 468.00 c
+f
+1.000 0.235 0.627 rg
+776.00 450.00 m
+776.00 485.35 804.65 514.00 840.00 514.00 c
+875.35 514.00 904.00 485.35 904.00 450.00 c
+904.00 414.65 875.35 386.00 840.00 386.00 c
+804.65 386.00 776.00 414.65 776.00 450.00 c
+f
+0.302 0.969 1.000 RG 3.00 w 56.00 444.00 m 236.00 444.00 l S
+0.482 0.380 1.000 RG 3.00 w 56.00 432.00 m 316.00 432.00 l S
+1.000 0.290 0.722 RG 3.00 w 56.00 420.00 m 396.00 420.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 48.00 m 904.00 48.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 62.00 m 904.00 62.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 76.00 m 904.00 76.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 90.00 m 904.00 90.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 104.00 m 904.00 104.00 l S
+0.302 0.137 0.478 RG 1.00 w 56.00 118.00 m 904.00 118.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 200.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 256.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 312.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 368.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 424.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 480.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 536.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 592.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 648.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 704.00 122.00 l S
+0.259 0.118 0.431 RG 1.00 w 480.00 48.00 m 760.00 122.00 l S
+BT /F2 30 Tf 1.000 0.949 0.969 rg 1 0 0 1 56.00 478.00 Tm (Why AgentLayer can matter) Tj ET
+BT /F1 15 Tf 1.000 0.839 0.588 rg 1 0 0 1 56.00 452.00 Tm (It is not just a profile page. It is the rule layer for who gets trust,) Tj ET
+BT /F1 15 Tf 1.000 0.839 0.588 rg 1 0 0 1 56.00 431.75 Tm (access, and money.) Tj ET
+0.302 0.969 1.000 rg 56.00 354.00 7.00 7.00 re f
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 356.00 Tm (For Moltbook developers: it can become the reputation and safety substrate under social agent accounts.) Tj ET
+0.302 0.969 1.000 rg 56.00 328.45 7.00 7.00 re f
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 330.45 Tm (For compute vendors: it can be the underwriting layer for pay-later GPU access.) Tj ET
+0.302 0.969 1.000 rg 56.00 302.90 7.00 7.00 re f
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 304.90 Tm (For trading systems: it can become the interface for risk limits, margin, and execution privilege.) Tj ET
+0.302 0.969 1.000 rg 56.00 277.35 7.00 7.00 re f
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 279.35 Tm (For marketplaces: it can turn anonymous listings into ranked, reviewable, collateral-backed counterparties.) Tj ET
+0.302 0.969 1.000 rg 56.00 251.80 7.00 7.00 re f
+BT /F1 13 Tf 0.957 0.894 0.969 rg 1 0 0 1 72.00 253.80 Tm (For the AI ecosystem at large: it can become the shared memory of agent identity, behavior, and accountability.) Tj ET
+BT /F2 24 Tf 1.000 0.953 0.969 rg 1 0 0 1 56.00 148.00 Tm (If the future is agent-to-agent commerce, AgentLayer can be) Tj ET
+BT /F2 24 Tf 1.000 0.953 0.969 rg 1 0 0 1 56.00 115.60 Tm (the trust layer that makes that future executable.) Tj ET
+BT /F3 18 Tf 0.302 0.969 1.000 rg 1 0 0 1 56.00 104.00 Tm (Integrate it early and help shape the standard.) Tj ET
+BT /F1 10 Tf 0.851 0.678 0.875 rg 1 0 0 1 56.00 18.00 Tm (AgentLayer ecosystem deck  |  page 6) Tj ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 960 540] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 16 0 R >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000155 00000 n 
+0000000225 00000 n 
+0000000300 00000 n 
+0000000378 00000 n 
+0000005476 00000 n 
+0000005622 00000 n 
+0000011240 00000 n 
+0000011386 00000 n 
+0000017557 00000 n 
+0000017705 00000 n 
+0000022899 00000 n 
+0000023047 00000 n 
+0000028026 00000 n 
+0000028174 00000 n 
+0000032037 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R >>
+startxref
+32185
+%%EOF

@@ -1,0 +1,24 @@
+.DS_Store
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+.venv
+.venv/
+.venv311/
+.venv_broken/
+.venv_clean/
+venv/
+node_modules/
+frontend/dist/
+frontend/.vite/
+backend/instance/*.sqlite3
+backend/instance/*.pem
+backend/instance/*.json
+backend/.env
+backend/.env.local
+backend/.env.production
+instance/
+.qodo/
+ChatGPT Image*.png
+*.zip
