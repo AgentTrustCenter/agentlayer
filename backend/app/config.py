@@ -25,17 +25,25 @@ _load_env_file(BACKEND_DIR / ".env")
 _load_env_file(PROJECT_DIR / ".env")
 
 
+def _normalize_database_url(database_url: str) -> str:
+    if database_url.startswith("postgres://"):
+        return database_url.replace("postgres://", "postgresql+psycopg://", 1)
+    if database_url.startswith("postgresql://"):
+        return database_url.replace("postgresql://", "postgresql+psycopg://", 1)
+    return database_url
+
+
 class Config:
     SECRET_KEY = os.getenv("SECRET_KEY", "agenttrust-dev-secret")
     _database_url = os.getenv(
         "DATABASE_URL",
         f"sqlite:///{(BACKEND_DIR / 'instance' / 'agenttrust.sqlite3').as_posix()}",
     )
-    SQLALCHEMY_DATABASE_URI = _database_url.replace("postgres://", "postgresql://", 1)
+    SQLALCHEMY_DATABASE_URI = _normalize_database_url(_database_url)
     SQLALCHEMY_TRACK_MODIFICATIONS = False
     SQLALCHEMY_ENGINE_OPTIONS = (
         {"pool_pre_ping": True, "pool_recycle": 300}
-        if SQLALCHEMY_DATABASE_URI.startswith("postgresql://")
+        if SQLALCHEMY_DATABASE_URI.startswith("postgresql+psycopg://")
         else {}
     )
     PLATFORM_URL = os.getenv("PLATFORM_URL", "http://localhost:8000").rstrip("/")
