@@ -2,7 +2,6 @@ services:
   - type: web
     name: agentlayer
     env: docker
-    plan: starter
     dockerfilePath: ./Dockerfile
     autoDeploy: true
     healthCheckPath: /api/v1/health
