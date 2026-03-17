@@ -8,10 +8,15 @@ __pycache__/
 .venv311/
 .venv_broken/
 .venv_clean/
+backend/.venv
+backend/.venv*
 venv/
 node_modules/
 frontend/dist/
 frontend/.vite/
+frontend/*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts
 backend/instance/*.sqlite3
 backend/instance/*.pem
 backend/instance/*.json
