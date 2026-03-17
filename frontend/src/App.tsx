@@ -33,6 +33,7 @@ import { AttestationPanel } from "./sections/AttestationPanel";
 import { IdentityImportPanel } from "./sections/IdentityImportPanel";
 import { OwnerConsolePanel } from "./sections/OwnerConsolePanel";
 import { RegistrationPanel } from "./sections/RegistrationPanel";
+import brandLogo from "./assets/agentlayer-logo.png";
 
 const LOCAL_IDENTITY_KEY = "agenttrust.activeIdentity";
 const LOCAL_SESSION_KEY = "agenttrust.dashboardSession";
@@ -682,7 +683,7 @@ function App() {
         <nav className="topbar">
           <div className="brand-lockup">
             <div className="brand-mark brand-mark-logo">
-              <img className="brand-logo-tile" src="/agentlayer-logo.png" alt="AgentLayer logo" />
+              <img className="brand-logo-tile" src={brandLogo} alt="AgentLayer logo" />
             </div>
             <div>
               <div className="brand-title">AgentLayer</div>
@@ -750,7 +751,7 @@ function App() {
             <div className="logo-stage">
               <div className="sunset-disc" />
               <div className="retro-grid" />
-              <img className="brand-logo" src="/agentlayer-logo.png" alt="AgentLayer logo" />
+              <img className="brand-logo" src={brandLogo} alt="AgentLayer logo" />
               <div className="logo-caption">Identity • Provenance • Reputation • Policy</div>
             </div>
             <div className="hero-orbit">

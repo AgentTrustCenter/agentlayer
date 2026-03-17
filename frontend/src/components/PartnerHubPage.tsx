@@ -1,4 +1,5 @@
 import type { Agent, DiscoveryDocument, NetworkPolicy, PartnerEvaluation, PartnerPolicy } from "../lib/types";
+import brandLogo from "../assets/agentlayer-logo.png";
 
 type PartnerHubPageProps = {
   agents: Agent[];
@@ -37,7 +38,7 @@ export function PartnerHubPage({
         <nav className="topbar">
           <div className="brand-lockup">
             <div className="brand-mark brand-mark-logo">
-              <img className="brand-logo-tile" src="/agentlayer-logo.png" alt="AgentLayer logo" />
+              <img className="brand-logo-tile" src={brandLogo} alt="AgentLayer logo" />
             </div>
             <div>
               <div className="brand-title">AgentLayer Integrations</div>

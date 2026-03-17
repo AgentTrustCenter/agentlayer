@@ -1,4 +1,5 @@
 import type { DiscoveryDocument, NetworkPolicy, RegistrationQuickstart } from "../lib/types";
+import brandLogo from "../assets/agentlayer-logo.png";
 
 type DocsTutorialPageProps = {
   discovery: DiscoveryDocument | null;
@@ -62,7 +63,7 @@ export function DocsTutorialPage({ discovery, quickstart, networkPolicy }: DocsT
         <nav className="topbar">
           <div className="brand-lockup">
             <div className="brand-mark brand-mark-logo">
-              <img className="brand-logo-tile" src="/agentlayer-logo.png" alt="AgentLayer logo" />
+              <img className="brand-logo-tile" src={brandLogo} alt="AgentLayer logo" />
             </div>
             <div>
               <div className="brand-title">AgentLayer Docs</div>
