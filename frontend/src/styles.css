@@ -1313,6 +1313,7 @@ select:focus {
   border-radius: 1.2rem;
   background: rgba(255, 255, 255, 0.02);
   border: 1px solid rgba(160, 199, 255, 0.12);
+  min-width: 0;
 }
 
 .value-card h3,
@@ -1346,6 +1347,26 @@ select:focus {
   grid-template-columns: auto 1fr;
   gap: 1rem;
   align-items: start;
+}
+
+.step-card > div,
+.value-card > div,
+.partner-page-card > div,
+.leaderboard-copy,
+.signal-list div,
+.callout-card,
+.panel-header > div {
+  min-width: 0;
+}
+
+.step-card strong,
+.step-card p,
+.secondary-copy,
+.discovery-list code,
+.callout-card p,
+.panel-header p {
+  overflow-wrap: anywhere;
+  word-break: break-word;
 }
 
 .step-number {
@@ -1450,6 +1471,18 @@ select:focus {
     align-items: start;
   }
 
+  .panel,
+  .stat-card,
+  .step-card,
+  .callout-card,
+  .partner-page-card,
+  .leaderboard-item,
+  .timeline-item,
+  .value-card,
+  .tier-card {
+    min-width: 0;
+  }
+
   .nav-links,
   .hero-actions,
   .handoff-mode-toggle,
@@ -1463,6 +1496,14 @@ select:focus {
   .topbar-link-chip {
     width: 100%;
     justify-content: center;
+  }
+
+  .step-card {
+    grid-template-columns: 1fr;
+  }
+
+  .step-number {
+    width: 3.25rem;
   }
 
   .timeline-item,
