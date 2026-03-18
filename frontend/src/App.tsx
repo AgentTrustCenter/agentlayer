@@ -38,6 +38,8 @@ import brandLogo from "./assets/agentlayer-logo.png";
 const LOCAL_IDENTITY_KEY = "agenttrust.activeIdentity";
 const LOCAL_SESSION_KEY = "agenttrust.dashboardSession";
 const PARTNER_SURFACES = ["dashboard", "moltbook", "render", "settlement-rail"] as const;
+const PUMP_FUN_ADDRESS = "8QYwKiqFBAukfU8Zwmh9McJzKsq1o5mdXkRERPBSpump";
+const PUMP_FUN_URL = "https://pump.fun/coin/8QYwKiqFBAukfU8Zwmh9McJzKsq1o5mdXkRERPBSpump";
 
 function formatShortFingerprint(value?: string | null) {
   if (!value) {
@@ -709,6 +711,16 @@ function App() {
             ))}
           </div>
         </nav>
+        <div className="topbar-link-strip">
+          <a
+            className="topbar-link-chip"
+            href={PUMP_FUN_URL}
+            rel="noreferrer"
+            target="_blank"
+          >
+            {PUMP_FUN_ADDRESS}
+          </a>
+        </div>
 
         <div className="hero-content">
           <div className="hero-copy">

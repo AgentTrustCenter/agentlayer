@@ -1,6 +1,9 @@
 import type { Agent, DiscoveryDocument, NetworkPolicy, PartnerEvaluation, PartnerPolicy } from "../lib/types";
 import brandLogo from "../assets/agentlayer-logo.png";
 
+const PUMP_FUN_ADDRESS = "8QYwKiqFBAukfU8Zwmh9McJzKsq1o5mdXkRERPBSpump";
+const PUMP_FUN_URL = "https://pump.fun/coin/8QYwKiqFBAukfU8Zwmh9McJzKsq1o5mdXkRERPBSpump";
+
 type PartnerHubPageProps = {
   agents: Agent[];
   discovery: DiscoveryDocument | null;
@@ -55,6 +58,16 @@ export function PartnerHubPage({
             ))}
           </div>
         </nav>
+        <div className="topbar-link-strip">
+          <a
+            className="topbar-link-chip"
+            href={PUMP_FUN_URL}
+            rel="noreferrer"
+            target="_blank"
+          >
+            {PUMP_FUN_ADDRESS}
+          </a>
+        </div>
 
         <div className="docs-hero-card">
           <div>

@@ -1,6 +1,9 @@
 import type { DiscoveryDocument, NetworkPolicy, RegistrationQuickstart } from "../lib/types";
 import brandLogo from "../assets/agentlayer-logo.png";
 
+const PUMP_FUN_ADDRESS = "8QYwKiqFBAukfU8Zwmh9McJzKsq1o5mdXkRERPBSpump";
+const PUMP_FUN_URL = "https://pump.fun/coin/8QYwKiqFBAukfU8Zwmh9McJzKsq1o5mdXkRERPBSpump";
+
 type DocsTutorialPageProps = {
   discovery: DiscoveryDocument | null;
   quickstart: RegistrationQuickstart | null;
@@ -78,6 +81,16 @@ export function DocsTutorialPage({ discovery, quickstart, networkPolicy }: DocsT
             <a href="#glossary">Glossary</a>
           </div>
         </nav>
+        <div className="topbar-link-strip">
+          <a
+            className="topbar-link-chip"
+            href={PUMP_FUN_URL}
+            rel="noreferrer"
+            target="_blank"
+          >
+            {PUMP_FUN_ADDRESS}
+          </a>
+        </div>
 
         <div className="docs-hero-card">
           <div>
